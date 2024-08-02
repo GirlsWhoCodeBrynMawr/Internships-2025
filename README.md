@@ -13,6 +13,7 @@ Girls Who Code wants to Build Community for Mawters to create, share and keep tr
 |----------------|---------|------|-----------|-------------------------|----------|--------------|
 |Software Engineer | Blackrock |   <a href="https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-1aa1a96c5ba3/candidate/so/pm/1/pl/1/opp/8163-2025-Summer-Internship-Program-AMERS/en-GB "><img src="https://i.imgur.com/eE1fXzS.png" width="90" alt="Apply"> </a>| Summer 2025 | IDK | Finance | Juniors
 |Software Engineer | CTC |   <a href="https://job-boards.greenhouse.io/chicagotradingcampushiring/jobs/4392240005?gh_src=d3efc0195us"><img src="https://i.imgur.com/eE1fXzS.png" width="90" alt="Apply"> </a>| Summer 2025 | IDK | Finance | Juniors
+|Quant Trading Associate | CTC |   <a href="https://job-boards.greenhouse.io/chicagotradingcampushiring/jobs/4449951005?gh_src=7c550c905us"><img src="https://i.imgur.com/eE1fXzS.png" width="90" alt="Apply"> </a>| Summer 2025 | IDK | Finance | Juniors
 
 
 
