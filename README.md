@@ -36,7 +36,7 @@ Girls Who Code wants to Build Community for Mawters to create, share and keep tr
 
 
 
-**Special Thanks to @Alison - https://github.com/alison-at for Idea & Execution**
+**Special Thanks to @Alison - https://github.com/alison-at for Idea & Execution** <br>
 **Special Thanks to @Kripa - https://github.com/TECNA7 for Format & Execution**
 
 
