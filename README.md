@@ -4,6 +4,9 @@ Girls Who Code wants to Build Community for Mawters to create, share and keep tr
 
 :warning: Please don't misuse this section. Any sort of damage to repo might have effect on your belonging to community.
 
+### Legend
+ -  : 
+
 
 
 |Internship Title| Company | Link | Timeframe | International Students? | Industry | Academic Year|
