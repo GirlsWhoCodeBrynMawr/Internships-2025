@@ -41,3 +41,8 @@ Girls Who Code wants to Build Community for Mawters to create, share and keep tr
 
 
 ## Our Lovely Contributors ❤️❤️
+<a href="https://github.com/GirlsWhoCodeBrynMawr/Internships-2025/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=GirlsWhoCodeBrynMawr/Internships-2025" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
