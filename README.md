@@ -15,7 +15,7 @@ Girls Who Code wants to Build Community for Mawters to create, share and keep tr
 |Technology Intern| SMBC | <a href="https://smbc.recsolu.com/jobs/TrJqhrC8kmTyGlBA4Q5GRg?job_board_id=eaXXV_6DqjCnE-NZ7B8R6A"><img src="https://i.imgur.com/eE1fXzS.png" width="90" alt="Apply"> | Summer 2025 | IDK | Banking | Juniors
 | Software Developer | S&P | <a href="https://careers.spglobal.com/jobs/294222?lang=en-us"><img src="https://i.imgur.com/eE1fXzS.png" width="90" alt="Apply"> </a> | Summer 2025 | IDK | finance
 | Engineering Program Managment | Apple | <a href="https://jobs.apple.com/en-us/details/200554358/engineering-program-management-internships?team=STDNT"><img src="https://i.imgur.com/eE1fXzS.png" width="90" alt="Apply"> </a>| Summer 2025 | IDK | Technology
-| Software Engineer | SIG | <a href="https://careers.sig.com/job/8218/Software-Engineering-Internship-Summer-2025"><img src="https://i.imgur.com/eE1fXzS.png" width="90" alt="Apply"> </a>| |Summer 2025 | IDK | Finance | Junior/Senior
+| Software Engineer | SIG | <a href="https://careers.sig.com/job/8218/Software-Engineering-Internship-Summer-2025"><img src="https://i.imgur.com/eE1fXzS.png" width="90" alt="Apply"> </a> |Summer 2025 | IDK | Finance | Junior/Senior
 | Technology Analyst | Morgan Stanley | <a href="https://www.morganstanley.com/careers/students-graduates/opportunities/17133" ><img src="https://i.imgur.com/eE1fXzS.png" width="90" alt="Apply"> </a> | Summer 2025 | IDK | Banking | Any
 | Technology Intern| Deloitte | <a href="https://apply.deloitte.com/careers/JobDetail/Deloitte-Technology-US-Intern-Summer-2025/189827"><img src="https://i.imgur.com/eE1fXzS.png" width="90" alt="Apply"> | Summer 2025 | Yes | Consulting | Any
 
