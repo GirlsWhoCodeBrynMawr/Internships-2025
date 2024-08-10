@@ -18,6 +18,7 @@ Girls Who Code wants to Build Community for Mawters to create, share and keep tr
 | Software Engineer | SIG | <a href="https://careers.sig.com/job/8218/Software-Engineering-Internship-Summer-2025"><img src="https://i.imgur.com/eE1fXzS.png" width="90" alt="Apply"> </a> |Summer 2025 | IDK | Finance | Junior/Senior
 | Technology Analyst | Morgan Stanley | <a href="https://www.morganstanley.com/careers/students-graduates/opportunities/17133" ><img src="https://i.imgur.com/eE1fXzS.png" width="90" alt="Apply"> </a> | Summer 2025 | IDK | Banking | Any
 | Technology Intern| Deloitte | <a href="https://apply.deloitte.com/careers/JobDetail/Deloitte-Technology-US-Intern-Summer-2025/189827"><img src="https://i.imgur.com/eE1fXzS.png" width="90" alt="Apply"> | Summer 2025 | Yes | Consulting | Any
+| Technology Intern | Wabtec | <a href="https://wabtec.wd1.myworkdayjobs.com/en-US/wabtec_careers/job/Erie-PA/Summer-2025-Digital-Internship_R0088443?q=intern&workerSubType=f6b08751ef07108b4852106afce50210" ><img src="https://i.imgur.com/eE1fXzS.png" width="90" alt="Apply"> </a> | Summer 2025 | Yes | Infrastructure | Sophomore, Junior, Senior, 
 
 
 
