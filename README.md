@@ -24,6 +24,7 @@ Girls Who Code wants to Build Community for Mawters to create, share and keep tr
 |Summer Intern - Tech | SMBC |   <a href="https://smbc.recsolu.com/jobs/8FBhKClcYLHBpHM9olKJZw?job_board_id=eaXXV_6DqjCnE-NZ7B8R6A"><img src="https://i.imgur.com/eE1fXzS.png" width="90" alt="Apply"> </a>| Summer 2025 | IDK | Banking | Juniors | 🟢 |
 |Summer Analyst | JPMC |   <a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210521949"><img src="https://i.imgur.com/eE1fXzS.png" width="90" alt="Apply"> </a>| Summer 2025 | IDK | Finance | Juniors | 🟢 |
 |Product Management Intern | DataBricks |   <a href="https://www.databricks.com/company/careers/product/product-management-intern-summer-2025-6883068002?gh_jid=6883068002&gh_src=62a881d62"><img src="https://i.imgur.com/eE1fXzS.png" width="90" alt="Apply"> </a>| Summer 2025 | IDK | AI & DataScience | Any | 🟢 |
+|Software Engineer Intern | Roblox |   <a href="https://careers.roblox.com/jobs/6086765/apply"><img src="https://i.imgur.com/eE1fXzS.png" width="90" alt="Apply"> </a>| Summer 2025 | IDK | Games | Any | 🟢 |
 
 
 
