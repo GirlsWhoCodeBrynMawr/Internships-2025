@@ -64,6 +64,8 @@ Girls Who Code wants to Build Community for Mawters to create, share and keep tr
 |Video Algorithm Engineer Intern | Tiktok | <a href="https://careers.tiktok.com/position/7397543716653091109/detail"><img src="https://i.imgur.com/eE1fXzS.png" width="90" alt="Apply"> </a> | Summer 2025 | Yes | Technology | Any | 🟢 |
 |Software Engineer Intern | Two Sigma | <a href="https://www.janestreet.com/join-jane-street/position/7527332002/"><img src="https://i.imgur.com/eE1fXzS.png" width="90" alt="Apply"> </a> | Summer 2025 | Yes | Finance | Any | 🟢 |
 |Product Management Summer Intern | US Bank | <a href="https://careers.usbank.com/global/en/apply?jobSeqNo=UBNAGLOBAL20240016039EXTERNALENGLOBAL&utm_source=linkedin&utm_medium=phenom-feeds&utm_medium=jobboard&utm_source=linkedin&step=1"><img src="https://i.imgur.com/eE1fXzS.png" width="90" alt="Apply"> </a> | Summer 2025 | IDK | Bank | Any | 🟢 |
+|Tech Summer Internship | Infosys | <a href="https://careers.usbank.com/global/en/apply?jobSeqNo=UBNAGLOBAL20240016039EXTERNALENGLOBAL&utm_source=linkedin&utm_medium=phenom-feeds&utm_medium=jobboard&utm_source=linkedin&step=1"><img src="https://i.imgur.com/eE1fXzS.png" width="90" alt="Apply"> </a> | Summer 2025 | IDK | IT sectors | Junior | 🟢 |
+
 
 
 
