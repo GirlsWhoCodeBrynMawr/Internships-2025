@@ -66,6 +66,8 @@ Girls Who Code wants to Build Community for Mawters to create, share and keep tr
 |Product Management Summer Intern | US Bank | <a href="https://careers.usbank.com/global/en/apply?jobSeqNo=UBNAGLOBAL20240016039EXTERNALENGLOBAL&utm_source=linkedin&utm_medium=phenom-feeds&utm_medium=jobboard&utm_source=linkedin&step=1"><img src="https://i.imgur.com/eE1fXzS.png" width="90" alt="Apply"> </a> | Summer 2025 | IDK | Bank | Any | 🟢 |
 |Tech Summer Internship | Infosys | <a href="https://app.joinhandshake.com/stu/jobs/9208793?campaign_id=455578"><img src="https://i.imgur.com/eE1fXzS.png" width="90" alt="Apply"> </a> | Summer 2025 | IDK | IT sectors | Junior | 🟢 |
 |Business Technology Solutions Associate | ZS | <a href="https://careers-zs.icims.com/jobs/21020/business-technology-solutions-associate---intern/job?iis=Handshake&mobile=false&width=1150&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240"><img src="https://i.imgur.com/eE1fXzS.png" width="90" alt="Apply"> </a> | Summer 2025 | IDK | Consulting | Junior | 🟢 |
+|Software Engineering | NVIDIA | <a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/jobs/details/NVIDIA-2025-Internships--Software-Engineering_JR1986535?workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8&locationHierarchy2=0c3f5f117e9a0101f6422f0fe79d0000&locationHierarchy2=0c3f5f117e9a0101f63dc469c3010000"><img src="https://i.imgur.com/eE1fXzS.png" width="90" alt="Apply"> </a> | Summer 2025 | Yes | Technology | Any | 🟢 |
+
 
 
 
